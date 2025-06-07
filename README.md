@@ -1,10 +1,10 @@
 # deep_learning_challenge
 
-Data Analytics Bootcamp - University of California, Irvine – 
-Module 21 
-Topic: Neural Networks and Machine Learning
-Title: Alphabet Soup Investors Analysis (ML)
-By:Jay Boon
+**Data Analytics Bootcamp - University of California, Irvine –** 
+**Module 21 **
+**Topic:** Neural Networks and Machine Learning
+**Title:** Alphabet Soup Investors Analysis (ML)
+**By:**Jay Boon
 
 
 Project Objective
